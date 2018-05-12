@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5675
     wikipedia: http://en.wikipedia.org/wiki/William_Tyndale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24890#The-prophete-Ionas-with-an-introduccion--13-before-teachinge-to-vnderstonde-him-and-the-right_
 gutenberg_issued: '2008-03-21'
 gutenberg_type: Text
 identifiers:

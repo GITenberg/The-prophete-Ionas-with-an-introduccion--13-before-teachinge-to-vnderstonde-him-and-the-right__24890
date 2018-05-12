@@ -1,0 +1,38 @@
+_repo: The-prophete-Ionas-with-an-introduccion--13-before-teachinge-to-vnderstonde-him-and-the-right__24890
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tyndale, William
+    aliases:
+    - Tyndall, William
+    - Tindall, William
+    - Tyndal, William
+    - Tindale, William
+    birthdate: 1492
+    deathdate: 1536
+    gutenberg_agent_id: '5675'
+    url: http://www.gutenberg.org/2009/agents/5675
+    wikipedia: http://en.wikipedia.org/wiki/William_Tyndale
+description: ''
+gutenberg_issued: '2008-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Jonah -- Commentaries'
+- !lcc 'BS'
+title: "The prophete Ionas with an introduccion\r\nbefore teachinge to vnderstonde\
+  \ him and the right vse also of all the scripture/ and why it was written/ and what\
+  \ is therin to be sought/ and shewenge wherewith the scripture is locked vpp that\
+  \ he which readeth it/ can not vnderstonde it/ though he studie therin neuer so\
+  \ moch: and agayne with what keyes it is so opened/ that the reader can be stopped\
+  \ out with no sotilte or false doctrine of man/ from the true sense and vnderstondynge\
+  \ therof."
+url: http://www.gutenberg.org/ebooks/24890
